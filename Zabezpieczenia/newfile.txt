@@ -1,1 +1,7 @@
-Hi
+Uwaga, używam zewnętrznej biblioteki guava-26-jre.jar
+https://github.com/google/guava/releases/download/v26.0/guava-26.0-jre.jar
+
+utwórz folder->lib->copy guava-26-jre.jar->prawym na plik->add as library
+
+From:
+https://github.com/google/guava
